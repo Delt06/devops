@@ -3,6 +3,8 @@
   <h1 align="center">DevOps Labs</h3>
 </p>
 
+**IMPORTANT NOTE: future lab development is going to happen at the [new repo](https://github.com/Delt06/devops-2). This repo has issues with GitHub Actions (can be viewed at Actions history)**
+
 [![Test](https://github.com/Delt06/devops-2/actions/workflows/test.yml/badge.svg)](https://github.com/Delt06/devops-2/actions/workflows/test.yml)
 
 
